@@ -35,4 +35,4 @@ int main()
   q=input();
   dist(p,q, &r);
   output(p,q,r);
-}
+  }
